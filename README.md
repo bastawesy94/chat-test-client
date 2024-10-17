@@ -1,4 +1,7 @@
 # chat-test-client
 Please run the following commands
-npm i
-node index.js
+
+```console
+    npm install
+    node index.js
+```
